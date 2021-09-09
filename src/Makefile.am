@@ -7,6 +7,7 @@ libfakechroot_la_SOURCES = \
     __lxstat.c \
     __lxstat64.c \
     __lxstat64.h \
+    __nss_files_fopen.c \
     __open.c \
     __open64.c \
     __open64_2.c \

@@ -165,6 +165,7 @@ AC_CHECK_FUNCS(m4_normalize([
     __getwd_chk
     __lxstat
     __lxstat64
+    __nss_files_fopen
     __open
     __open_2
     __open64
